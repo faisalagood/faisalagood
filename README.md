@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faisal
 - 👀 I’m interested in React, Javascript, Node.
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently on a 16 week course with School Of Code!
 - 📫 How to reach me: github@fais.al
 
 <!---
