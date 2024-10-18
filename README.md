@@ -68,17 +68,4 @@ different <b>JS build systems for the code (Rollup, now Webpack)</b>, deeper <b>
 
 <h2 align="center">📫 <b>How to reach me</b> 🤝</h2>
 
-<p align="center">
-  <a href="https://twitter.com/faisalagood" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter) Follow">
-  </a>
-  <a href="https://www.linkedin.com/in/faisalagood" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/faisalagood" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://fais.al" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Website">
-  </a>
-</p>
+<p align="center"><a href="https://twitter.com/faisalagood" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter) Follow"></a><a href="https://www.linkedin.com/in/faisalagood" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://github.com/faisalagood" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a><a href="https://fais.al" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Website"></a></p>
